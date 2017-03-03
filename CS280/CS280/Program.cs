@@ -10,7 +10,13 @@ namespace CS280
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("hello world!")
+            Pokemon pokemon = new Pokemon();
+            pokemon.Hight = 2.0f;
+            pokemon.Weight = 12.7f;
+            pokemon.Category = "Lizard";
+            pokemon.Gender = "M";
+            Console.WriteLine("身高:{0}公尺, 體重{1}磅",
+                pokemon.Hight, pokemon.Weight);
         }
     }
 }

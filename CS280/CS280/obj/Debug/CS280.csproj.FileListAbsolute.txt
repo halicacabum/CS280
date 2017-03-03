@@ -1,1 +1,6 @@
 D:\CSharpProjects\CS280\CS280\bin\Debug\CS280.exe.config
+D:\CSharpProjects\CS280\CS280\obj\Debug\CS280.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\CS280\CS280\bin\Debug\CS280.exe
+D:\CSharpProjects\CS280\CS280\bin\Debug\CS280.pdb
+D:\CSharpProjects\CS280\CS280\obj\Debug\CS280.exe
+D:\CSharpProjects\CS280\CS280\obj\Debug\CS280.pdb
